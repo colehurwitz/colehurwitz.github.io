@@ -15,7 +15,7 @@ A Python framework designed to unify preexisting spike sorting technologies into
 
 <p>
    [<a href="https://github.com/SpikeInterface">Source Code</a>
-   |<a href="https://www.spikeforum.org/">Website</a>
+   | <a href="https://www.spikeforum.org/">Website</a>
 
  ]
 </p>
@@ -30,7 +30,7 @@ A method for automated spike sorting for recordings with high-density, large-sca
 
 <p>
    [<a href="https://github.com/mhhennig/HS2">Source Code</a>
-   |<a href="https://www.sciencedirect.com/science/article/pii/S221112471730236X">Publication</a>
+   | <a href="https://www.sciencedirect.com/science/article/pii/S221112471730236X">Publication</a>
 
  ]
 </p>
