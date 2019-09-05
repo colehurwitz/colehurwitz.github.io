@@ -13,7 +13,7 @@ Extracellular recordings using modern, dense probes provide detailed footprints 
 
 <p>
    [<a href="https://www.biorxiv.org/content/10.1101/656389v1">bioRxiv</a>
-   [<a href="https://github.com/colehurwitz/vae_spike_localization">Source Code</a>
+   |<a href="https://github.com/colehurwitz/vae_spike_localization">Source Code</a>
 
  ]
 </p>
