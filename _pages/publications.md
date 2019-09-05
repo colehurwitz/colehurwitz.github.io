@@ -20,7 +20,7 @@ Extracellular recordings using modern, dense probes provide detailed footprints 
 
 <p>
 <a href="https://arxiv.org/abs/1809.01051"><b>Scaling Spike Detection and Sorting for Next Generation Electrophysiology
-</b></a>.&nbsp; Matthias H. Hennig, <b>Cole L Hurwitz</b>, Martino Sorbaro. <i> In Vitro Neuronal Networks - From Culturing Methods to Neuro-Technological Applications, Springer International Publishing.</i> 2018.
+</b></a>.&nbsp; Matthias H. Hennig, <b>Cole L Hurwitz</b>, Martino Sorbaro. <i> In Vitro Neuronal Networks - From Culturing Methods to Neuro-Technological Applications, Springer International Publishing.</i> 2019.
 </p>
 
 Reliable spike detection and sorting, the process of assigning each detected spike to its originating neuron, is an essential step in the analysis of extracellular electrical recordings from neurons. The volume and complexity of the data from recently developed large scale, high density microelectrode arrays and probes, which allow recording from thousands of channels simultaneously, substantially complicate this task conceptually and computationally. This chapter provides a summary and discussion of recently developed methods to tackle these challenges, and discuss the important aspect of algorithm validation, and assessment of detection and sorting quality.
