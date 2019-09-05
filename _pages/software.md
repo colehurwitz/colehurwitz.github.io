@@ -21,7 +21,7 @@ A Python framework designed to unify preexisting spike sorting technologies into
 </p>
 
 <p>
-<a href="https://github.com/mhhennig/HS2"><b>Herding Spikes 2: Unsupervised Spike Sorting for Large-Scale, High-Density Multielectrode Arrays</b></a>.&nbsp; Matthias Hennig, Jano Horvath, <b>Cole L Hurwitz</b>, Oliver Muthmann, Albert Puente Encinas, Martino Sorbaro, Cesar Juarez Ramirez, and Raimon Wintzer.
+<a href="https://github.com/mhhennig/HS2"><b>Herding Spikes 2: Unsupervised Spike Sorting for Large-Scale, High-Density Multielectrode Arrays</b></a>.&nbsp; Matthias Hennig, <b>Cole L Hurwitz</b>, Jano Horvath, Oliver Muthmann, Albert Puente Encinas, Martino Sorbaro, Cesar Juarez Ramirez, and Raimon Wintzer.
 </p>
 
 Role: Developer
