@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<embed src="images/ColeHurwitzResume.pdf" width="800px" height="2100px" />
+<embed src="../images/ColeHurwitzResume.pdf" width="800px" height="2100px" />

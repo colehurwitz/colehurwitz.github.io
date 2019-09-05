@@ -8,5 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+Biography
+======
 I am a current PhD student at the University of Edinburgh supervised by
 Dr. Matthias Hennig. I conduct research in both computational neuroscience and machine learning. My work focuses on the development and deployment of scalable methods for the analysis of large-scale extracellular recordings. I also work to improve the reproducibility and provenance of extracellular analysis in preparation for the wide-spread use of large-scale electrophysiology. I am a firm believer that both of these research directions are essential for the current and future health of neuroscience and I am passionate about developing principled technologies to drive them forward.
+
+
+News
+======
+* Our paper Scalable Spike Source Localization in Extracellular Recordings using Amortized Variational Inference got accepted at NeurIPS 2019.
+* I will be attending the Machine Learning Summer Series (MLSS) 2019.
+* Our review Scaling Spike Detection and Sorting for Next Generation Electrophysiology
+is published in: In Vitro Neuronal Networks - From Culturing Methods to Neuro-Technological Applications, Springer International Publishing.
+* I will be attending the OCNC: OIST Computational Neuroscience Course 2018.
