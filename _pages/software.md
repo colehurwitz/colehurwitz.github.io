@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Software Tools"
+title: "Software"
 permalink: /software/
 author_profile: true
 ---
@@ -33,5 +33,4 @@ A method for automated spike sorting for recordings with high-density, large-sca
    [<a href="https://www.sciencedirect.com/science/article/pii/S221112471730236X">Publication</a>
 
  ]
-</p>
 </p>
