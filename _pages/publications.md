@@ -12,8 +12,8 @@ author_profile: true
 
 <p>
    [<a href="https://www.biorxiv.org/content/10.1101/656389v1">bioRxiv</a>
-	| <a href="javascript:toggle('bibhurwitz19localize', 'bib_link_hurwitz19localize', 'bib')"  id="bib_link_srivastava17lda">bib</a>
-	| <a href="javascript:toggle('abshurwitz19localize', 'abs_link_hurwitz19localize', 'abstract')" 
+	| <a href="javascript:toggle('bibhurwitz19localize', 'bib_link_hurwitz19localize', 'bib')"  id="bib_link_hurwitz19localize'">bib</a>
+	| <a href="javascript:toggle('abshurwitz19localize', 'abs_link_hurwitz19localize', 'abstract')" id="abs_link_hurwitz19localize">abstract</a>
  ]
 </p>
 
