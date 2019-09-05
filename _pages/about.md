@@ -16,8 +16,7 @@ Dr. Matthias Hennig. I conduct research in both computational neuroscience and m
 
 News
 ======
-* Our paper Scalable Spike Source Localization in Extracellular Recordings using Amortized Variational Inference got accepted at NeurIPS 2019.
+* Our paper [Scalable Spike Source Localization in Extracellular Recordings using Amortized Variational Inference](https://www.biorxiv.org/content/10.1101/656389v1) was accepted at NeurIPS 2019.
 * I will be attending the Machine Learning Summer Series (MLSS) 2019.
-* Our review Scaling Spike Detection and Sorting for Next Generation Electrophysiology
-is published in: In Vitro Neuronal Networks - From Culturing Methods to Neuro-Technological Applications, Springer International Publishing.
+* Our paper [Scaling Spike Detection and Sorting for Next Generation Electrophysiology](https://arxiv.org/abs/1809.01051) was published in: In Vitro Neuronal Networks - From Culturing Methods to Neuro-Technological Applications, Springer International Publishing.
 * I will be attending the OCNC: OIST Computational Neuroscience Course 2018.
