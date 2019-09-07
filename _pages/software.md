@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <p>
-<a href="https://github.com/SpikeInterface"><b>SpikeInterface: A Unified Framework for Spike Sorting</b></a>.&nbsp; Alessio Paolo Buccino*, <b>Cole L Hurwitz*</b>, Jeremy Magland, Samuel Garcia,Josh Siegle, Roger Hurwitz, and Matthias Hennig.
+<a href="https://github.com/SpikeInterface"><b>SpikeInterface: A Unified Framework for Spike Sorting</b></a>.&nbsp; Alessio Paolo Buccino*, <b>Cole L Hurwitz*</b>, Jeremy Magland, Samuel Garcia, Josh Siegle, Roger Hurwitz, and Matthias Hennig.
 </p>
 
 Role: Author
