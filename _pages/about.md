@@ -16,6 +16,7 @@ I am a current PhD student at the Institute for Adaptive and Neural Computation,
 
 News
 ======
+* I was awarded a travel grant of $1400 to attend NeurIPS!
 * Our paper [Scalable Spike Source Localization in Extracellular Recordings using Amortized Variational Inference](https://www.biorxiv.org/content/10.1101/656389v1) was accepted at NeurIPS 2019.
 * I attended the Machine Learning Summer Series (MLSS) 2019 in London.
 * Our paper [Scaling Spike Detection and Sorting for Next Generation Electrophysiology](https://arxiv.org/abs/1809.01051) was published in: In Vitro Neuronal Networks - From Culturing Methods to Neuro-Technological Applications, Springer International Publishing.
