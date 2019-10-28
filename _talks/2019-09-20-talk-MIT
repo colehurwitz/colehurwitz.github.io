@@ -1,0 +1,11 @@
+---
+title: "Scalable Spike Source Localization in Extracellular Recordings using Amortized Variational Inference"
+collection: talks
+type: "Talk"
+permalink: /talks/2019-09-20-talk-MIT
+venue: "MIT–IBM Watson AI Lab"
+date: 2019-09-20
+location: "Cambridge, Massachusetts"
+---
+
+Determining the positions of neurons in an extracellular recording is useful for investigating the functional properties of the underlying neural circuitry. In this work, we present a Bayesian modelling approach for localizing the source of individual spikes on high-density, microelectrode arrays. To allow for scalable inference, we implement our model as a variational autoencoder and perform amortized variational inference. We evaluate our method on both biophysically realistic simulated and real extracellular datasets, demonstrating that it is more accurate than and can improve spike sorting performance over heuristic localization methods such as center of mass.
