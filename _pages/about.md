@@ -11,7 +11,7 @@ redirect_from:
 Research
 ======
 I am a current PhD student at the Institute for Adaptive and Neural Computation, University of Edinburgh supervised by
-[Dr. Matthias Hennig](http://homepages.inf.ed.ac.uk/mhennig/). My research interests lie at the intersection of computational neuroscience and machine learning and my PhD focuses on the development and deployment of scalable methods for the analysis of large-scale extracellular recordings. I also work to improve the reproducibility and provenance of extracellular analysis in preparation for the wide-spread use of large-scale electrophysiology. I am a firm believer that both of these research directions are essential for the current and future health of neuroscience and I am passionate about developing principled technologies to drive them forward.
+[Dr. Matthias Hennig](http://homepages.inf.ed.ac.uk/mhennig/). My research interests lie at the intersection of computational neuroscience and machine learning where I work to apply modern generative modelling and inference methods to the analysis of large-scale extracellular recordings. I also work to improve the reproducibility and provenance of extracellular analysis in preparation for the wide-spread use of large-scale electrophysiology. I am a firm believer that both of these research directions are essential for the current and future health of neuroscience and I am passionate about developing principled technologies to drive them forward.
 
 
 News
