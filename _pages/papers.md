@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /papers/
 author_profile: true
 ---
-
 <p>
 <a href="https://papers.nips.cc/paper/8720-scalable-spike-source-localization-in-extracellular-recordings-using-amortized-variational-inference"><b>Scalable Spike Source Localization in Extracellular Recordings using Amortized Variational Inference</b></a>.&nbsp;<b>Cole L. Hurwitz</b>, Kai Xu, Akash Srivastava, Alessio P. Buccino, Matthias H. Hennig. <i> Advances in Neural Information Processing Systems 32 (NeurIPS 2019)</i>.
 </p>
