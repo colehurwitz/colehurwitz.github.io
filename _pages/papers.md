@@ -20,8 +20,8 @@ author_profile: true
 </b></a>.&nbsp; Matthias H. Hennig, <b>Cole L. Hurwitz</b>, Martino Sorbaro. <i> In Vitro Neuronal Networks - From Culturing Methods to Neuro-Technological Applications, Springer International Publishing.</i> 2019.
 </p>
 <p>
-   [<a href="https://arxiv.org/abs/1809.01051">arXiv</a>
-
+   [<a href="https://link.springer.com/chapter/10.1007/978-3-030-11135-9_7">Springer</a>
+   | <a href="https://arxiv.org/abs/1809.01051">arXiv</a>
  ]
 </p>
 
