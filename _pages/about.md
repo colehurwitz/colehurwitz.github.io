@@ -16,9 +16,8 @@ I am a current PhD student at the Institute for Adaptive and Neural Computation,
 
 News
 ======
-* New paper [SpikeInterface, a unified framework for spike sorting](https://www.biorxiv.org/content/10.1101/796599v1).
+* New paper: [SpikeForest: reproducible web-facing ground-truth validation of automated neural spike sorters](https://www.biorxiv.org/content/10.1101/2020.01.14.900688v1?rss=1).
+* New paper: [SpikeInterface, a unified framework for spike sorting](https://www.biorxiv.org/content/10.1101/796599v1).
 * I was awarded a travel grant to attend NeurIPS.
 * Our paper [Scalable Spike Source Localization in Extracellular Recordings using Amortized Variational Inference](https://papers.nips.cc/paper/8720-scalable-spike-source-localization-in-extracellular-recordings-using-amortized-variational-inference) was accepted at NeurIPS 2019.
 * I attended the Machine Learning Summer Series (MLSS) 2019 in London.
-* Our paper [Scaling Spike Detection and Sorting for Next Generation Electrophysiology](https://arxiv.org/abs/1809.01051) was published in: In Vitro Neuronal Networks - From Culturing Methods to Neuro-Technological Applications, Springer International Publishing.
-* I attended the OCNC: OIST Computational Neuroscience Course 2018 in Okinawa.

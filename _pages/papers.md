@@ -33,6 +33,20 @@ Reliable spike detection and sorting, the process of assigning each detected spi
 # Preprints
 
 <p>
+<a href="https://www.biorxiv.org/content/10.1101/2020.01.14.900688v1?rss=1"><b>SpikeForest: reproducible web-facing ground-truth validation of automated neural spike sorters</b></a>.&nbsp;Jeremy F Magland, James J Jun, Elizabeth Lovero, <b>Cole L. Hurwitz</b>, Alessio P. Buccino, Samuel Garcia, Alex H Barnett. bioRxiv 2020.
+</p>
+
+Spike sorting is a crucial but time-intensive step in electrophysiological studies of neuronal activity. While there are many popular software packages for spike sorting, there is little consensus about which are the most accurate under different experimental conditions. SpikeForest is an open-source and reproducible software suite that benchmarks the performance of automated spike sorting algorithms across an extensive, curated database of electrophysiological recordings with ground truth, displaying results interactively on a continuously-updating website. With contributions from over a dozen participating laboratories, our database currently comprises 650 recordings (1.3 TB total size) with around 35,000 ground-truth units. These data include extracellular recordings paired with intracellular voltages, state-of-the-art simulated recordings, and hybrid synthetic datasets. Ten of the most frequently used modern spike sorting codes are wrapped under a common Python framework and evaluated on a compute cluster using an automated pipeline. SpikeForest validates and documents community progress in automated spike sorting, and guides neuroscientists to an optimal choice of sorter and parameters for a wide range of probes and brain regions.
+
+<p>
+   [<a href="https://www.biorxiv.org/content/10.1101/2020.01.14.900688v1?rss=1">bioRxiv</a>
+   | <a href="https://spikeforest.flatironinstitute.org/">Website</a>
+   | <a href="https://github.com/flatironinstitute/spikeforest2">Source Code</a>
+
+ ]
+</p>
+
+<p>
 <a href="https://www.biorxiv.org/content/10.1101/796599v1"><b>SpikeInterface, a unified framework for spike sorting</b></a>.&nbsp;Alessio P. Buccino<sup>1</sup>, <b>Cole L. Hurwitz</b><sup>1</sup>, Jeremy Magland, Samuel Garcia, Joshua H. Siegle, Roger Hurwitz, Matthias H. Hennig. bioRxiv 2019. 1. equal contribution
 </p>
 
