@@ -7,9 +7,7 @@ author_profile: true
 
 <p>
 <a href="https://arxiv.org/abs/2009.04433"><b>not-so-BigGAN: Generating High-Fidelity Images on a Small Compute Budget
-</b></a>.&nbsp;Seungwook Han<sup>1</sup>, Akash Srivastava<sup>1</sup>, <b>Cole Hurwitz</b><sup>1</sup>, Prasanna Sattigeri, David D. Cox. arXiv 2020. 1. equal contribution.  [<a href="https://arxiv.org/abs/2009.04433">arXiv</a>
-| <a href="https://arxiv.org/abs/2009.04433">arXiv</a>
-]
+</b></a>.&nbsp;Seungwook Han<sup>1</sup>, Akash Srivastava<sup>1</sup>, <b>Cole Hurwitz</b><sup>1</sup>, Prasanna Sattigeri, David D. Cox. arXiv 2020. 1. equal contribution.  [<a href="https://arxiv.org/abs/2009.04433">arXiv</a>]
 </p>
 <!-- <p>
    [<a href="https://papers.nips.cc/paper/8720-scalable-spike-source-localization-in-extracellular-recordings-using-amortized-variational-inference">NeurIPS</a>
@@ -21,9 +19,7 @@ author_profile: true
 
 <p>
 <a href="https://arxiv.org/abs/2010.13187"><b>Improving the Reconstruction of Disentangled Representation Learners via Multi-Stage Modelling
-</b></a>.&nbsp;Akash Srivastava<sup>1</sup>, Yamini Bansal<sup>1</sup>, Yukun Ding<sup>1</sup>, <b>Cole Hurwitz</b><sup>1</sup>, Kai Xu, Bernhard Egger, Prasanna Sattigeri, Josh Tenenbaum, David D. Cox, Dan Gutfreund. arXiv 2020. 1. equal contribution.  [<a href="https://arxiv.org/abs/2010.13187">arXiv</a>
-| <a href="https://arxiv.org/abs/2010.13187">arXiv</a>
-]
+</b></a>.&nbsp;Akash Srivastava<sup>1</sup>, Yamini Bansal<sup>1</sup>, Yukun Ding<sup>1</sup>, <b>Cole Hurwitz</b><sup>1</sup>, Kai Xu, Bernhard Egger, Prasanna Sattigeri, Josh Tenenbaum, David D. Cox, Dan Gutfreund. arXiv 2020. 1. equal contribution.  [<a href="https://arxiv.org/abs/2010.13187">arXiv</a>]
 </p>
 <!-- <p>
    [<a href="https://papers.nips.cc/paper/8720-scalable-spike-source-localization-in-extracellular-recordings-using-amortized-variational-inference">NeurIPS</a>
