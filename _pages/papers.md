@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <p>
-<a href="https://elifesciences.org/articles/55167"><b>SpikeForest: reproducible web-facing ground-truth validation of automated neural spike sorters</b></a>.&nbsp;Jeremy F Magland, James J Jun, Elizabeth Lovero, <b>Cole L. Hurwitz</b>, Alessio P. Buccino, Samuel Garcia, Alex H Barnett. eLife 2020.  [<a href="https://elifesciences.org/articles/55167">bioRxiv</a>
+<a href="https://elifesciences.org/articles/55167"><b>SpikeForest: reproducible web-facing ground-truth validation of automated neural spike sorters</b></a>.&nbsp;Jeremy F Magland, James J Jun, Elizabeth Lovero, <b>Cole L. Hurwitz</b>, Alessio P. Buccino, Samuel Garcia, Alex H Barnett. eLife 2020.  [<a href="https://elifesciences.org/articles/55167">eLife</a>
    | <a href="https://spikeforest.flatironinstitute.org/">Website</a>
    | <a href="https://github.com/flatironinstitute/spikeforest2">Source Code</a>
 
