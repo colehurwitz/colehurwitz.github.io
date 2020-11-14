@@ -74,13 +74,13 @@ author_profile: true
 </p> -->
 
 <p>
-<a href="https://www.biorxiv.org/content/10.1101/796599v1"><b>SpikeInterface, a unified framework for spike sorting</b></a>.&nbsp;Alessio P. Buccino<sup>1</sup>, <b>Cole L. Hurwitz</b><sup>1</sup>, Jeremy Magland, Samuel Garcia, Joshua H. Siegle, Roger Hurwitz, Matthias H. Hennig. bioRxiv 2019. 1. equal contribution. [<a href="https://www.biorxiv.org/content/10.1101/796599v1">bioRxiv</a>
+<a href="https://elifesciences.org/articles/61834"><b>SpikeInterface, a unified framework for spike sorting</b></a>.&nbsp;Alessio P. Buccino<sup>1</sup>, <b>Cole L. Hurwitz</b><sup>1</sup>, Jeremy Magland, Samuel Garcia, Joshua H. Siegle, Roger Hurwitz, Matthias H. Hennig. eLife 2020. 1. equal contribution. [<a href="https://elifesciences.org/articles/61834">eLife</a>
 | <a href="https://github.com/SpikeInterface">Source Code</a>
 
 ]
 </p>
 <!-- <p>
-   [<a href="https://www.biorxiv.org/content/10.1101/796599v1">bioRxiv</a>
+   [<a href="https://elifesciences.org/articles/61834">eLife</a>
    | <a href="https://github.com/SpikeInterface">Source Code</a>
 
  ]

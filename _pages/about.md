@@ -15,6 +15,7 @@ I am a current PhD student at the Institute for Adaptive and Neural Computation,
 
 News
 ======
+* Our paper [SpikeInterface, a unified framework for spike sorting](https://elifesciences.org/articles/61834) was published in eLife.
 * New paper: [Improving the Reconstruction of Disentangled Representation Learners via Multi-Stage Modelling](https://arxiv.org/abs/2010.13187).
 * New paper: [not-so-BigGAN: Generating High-Fidelity Images on a Small Compute Budget](https://arxiv.org/abs/2009.04433).
 * Our paper [SpikeForest: reproducible web-facing ground-truth validation of automated neural spike sorters](https://elifesciences.org/articles/55167) was published in eLife.
