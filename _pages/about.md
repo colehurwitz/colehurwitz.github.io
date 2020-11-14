@@ -21,6 +21,5 @@ News
 * Our paper [SpikeForest: reproducible web-facing ground-truth validation of automated neural spike sorters](https://elifesciences.org/articles/55167) was published in eLife.
 * New paper: [SpikeForest: reproducible web-facing ground-truth validation of automated neural spike sorters](https://www.biorxiv.org/content/10.1101/2020.01.14.900688v1?rss=1).
 * New paper: [SpikeInterface, a unified framework for spike sorting](https://www.biorxiv.org/content/10.1101/796599v1.abstract).
-* I was awarded a travel grant to attend NeurIPS.
 * Our paper [Scalable Spike Source Localization in Extracellular Recordings using Amortized Variational Inference](https://papers.nips.cc/paper/8720-scalable-spike-source-localization-in-extracellular-recordings-using-amortized-variational-inference) was accepted at NeurIPS 2019.
 * I attended the Machine Learning Summer Series (MLSS) 2019 in London.
