@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Cole Hurwitz"
-description              : &description "PhD candidate at the Informatics Forum, University of Edinburgh. I like generative modeling, deep learning, spike sorting, open science, board games, and swimming."
+description              : &description "PhD candidate at the Informatics Forum, University of Edinburgh. I like generative modeling, deep learning, neural dynamics, spike sorting, open science, board games, and swimming."
 url                      : https://colehurwitz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "colehurwitz.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Cole Hurwitz"
   avatar           : "profile.png"
-  bio              : "PhD candidate at the Informatics Forum, University of Edinburgh. I like generative modeling, deep learning, spike sorting, open science, board games, and swimming."
+  bio              : "PhD candidate at the Informatics Forum, University of Edinburgh. I like generative modeling, deep learning, neural dynamics, spike sorting, open science, board games, and swimming."
   location         : "Edinburgh, Scotland"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=cole+hurwitz"
