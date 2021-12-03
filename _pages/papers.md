@@ -6,24 +6,36 @@ author_profile: true
 ---
 
 <p>
-<a href="https://elifesciences.org/articles/61834"><b>SpikeInterface, a unified framework for spike sorting</b></a>.&nbsp;Alessio P. Buccino*, <b>Cole L. Hurwitz</b>*, Jeremy Magland, Samuel Garcia, Joshua H. Siegle, Roger Hurwitz, Matthias H. Hennig.  <i>eLife</i> (2020). * - equal contribution. [<a href="https://elifesciences.org/articles/61834">eLife</a>
-| <a href="https://github.com/SpikeInterface">Source Code</a>
+<a href="https://papers.nips.cc/paper/2021/hash/f5cfbc876972bd0d031c8abc37344c28-Abstract.html"><b> Targeted Neural Dynamically Modeling </b></a>.&nbsp;<b>Cole Hurwitz</b>, Akash Srivastava, Kai Xu, Justin Jude, Matthew Perich, Lee Miller, Matthias Hennig. <i> Advances in Neural Information Processing Systems 34 </i>. <i>NeurIPS</i> 2021. [<a href="https://papers.nips.cc/paper/2021/hash/f5cfbc876972bd0d031c8abc37344c28-Abstract.html">NeurIPS</a>
+| <a href="https://papers.nips.cc/paper/2021/hash/f5cfbc876972bd0d031c8abc37344c28-Abstract.html">NeurIPS</a>
+| <a href="https://github.com/HennigLab/tndm">Code</a>
+]
+</p>
+
+<p>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0959438821000726"><b>Building population models for large-scale neural recordings: opportunities and pitfalls
+</b></a>.&nbsp;<b>Cole Hurwitz</b>\*, Nina Kudryashova\*, Arno Onken, Matthias H. Hennig. Current Opinion in Neurobiology 70, Pages 64-73. 2021. \* - equal contribution. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0959438821000726">Current Opinion in Neurobiology</a>]
+</p>
+
+<p>
+<a href="https://elifesciences.org/articles/61834"><b>SpikeInterface, a unified framework for spike sorting</b></a>.&nbsp;Alessio P. Buccino\*, <b>Cole L. Hurwitz</b>\*, Jeremy Magland, Samuel Garcia, Joshua H. Siegle, Roger Hurwitz, Matthias H. Hennig.  <i>eLife</i> 2020. \* - equal contribution. [<a href="https://elifesciences.org/articles/61834">eLife</a>
+| <a href="https://github.com/SpikeInterface">Code</a>
 
 ]
 </p>
 
 <p>
-<a href="https://elifesciences.org/articles/55167"><b>SpikeForest: reproducible web-facing ground-truth validation of automated neural spike sorters</b></a>.&nbsp;Jeremy F Magland, James J Jun, Elizabeth Lovero, Alexander J Morley, <b>Cole L. Hurwitz</b>, Alessio P. Buccino, Samuel Garcia, Alex H Barnett. <i>eLife</i> (2020).  [<a href="https://elifesciences.org/articles/55167">eLife</a>
+<a href="https://elifesciences.org/articles/55167"><b>SpikeForest: reproducible web-facing ground-truth validation of automated neural spike sorters</b></a>.&nbsp;Jeremy F Magland, James J Jun, Elizabeth Lovero, Alexander J Morley, <b>Cole L. Hurwitz</b>, Alessio P. Buccino, Samuel Garcia, Alex H Barnett. <i>eLife</i> 2020.  [<a href="https://elifesciences.org/articles/55167">eLife</a>
    | <a href="https://spikeforest.flatironinstitute.org/">Website</a>
-   | <a href="https://github.com/flatironinstitute/spikeforest2">Source Code</a>
+   | <a href="https://github.com/flatironinstitute/spikeforest2">Code</a>
 
  ]
 </p>
 
 <p>
-<a href="https://papers.nips.cc/paper/8720-scalable-spike-source-localization-in-extracellular-recordings-using-amortized-variational-inference"><b>Scalable Spike Source Localization in Extracellular Recordings using Amortized Variational Inference</b></a>.&nbsp;<b>Cole L. Hurwitz</b>, Kai Xu, Akash Srivastava, Alessio P. Buccino, Matthias H. Hennig. <i> Advances in Neural Information Processing Systems 32 </i> (<i>NeurIPS</i>2019). [<a href="https://papers.nips.cc/paper/8720-scalable-spike-source-localization-in-extracellular-recordings-using-amortized-variational-inference">NeurIPS</a>
-| <a href="https://www.biorxiv.org/content/10.1101/656389v1">bioRxiv</a>
-| <a href="https://github.com/colehurwitz/decay_model">Source Code</a>
+<a href="https://proceedings.neurips.cc/paper/2019/hash/f12f2b34a0c3174269c19e21c07dee68-Abstract.html"><b>Scalable Spike Source Localization in Extracellular Recordings using Amortized Variational Inference</b></a>.&nbsp;<b>Cole L. Hurwitz</b>, Kai Xu, Akash Srivastava, Alessio P. Buccino, Matthias H. Hennig. <i> Advances in Neural Information Processing Systems 32 </i>. <i>NeurIPS</i> 2019. [<a href="https://proceedings.neurips.cc/paper/2019/hash/f12f2b34a0c3174269c19e21c07dee68-Abstract.html">NeurIPS</a>
+| <a href="https://proceedings.neurips.cc/paper/2019/hash/f12f2b34a0c3174269c19e21c07dee68-Abstract.html">NeurIPS</a>
+| <a href="https://github.com/colehurwitz/decay_model">Code</a>
 ]
 </p>
 
@@ -36,13 +48,6 @@ author_profile: true
 </p>
 
 # Preprints
-
-<p>
-<a href="https://arxiv.org/abs/2102.01807"><b>Building population models for large-scale neural recordings: opportunities and pitfalls
-</b></a>.&nbsp;<b>Cole Hurwitz</b>, Nina Kudryashova, Arno Onken, Matthias H. Hennig. arXiv 2021. [<a href="https://arxiv.org/abs/2102.01807">arXiv</a>]
-</p>
-
-
 <p>
 <a href="https://arxiv.org/abs/2009.04433"><b>not-so-BigGAN: Generating High-Fidelity Images on a Small Compute Budget
 </b></a>.&nbsp;Seungwook Han*, Akash Srivastava*, <b>Cole Hurwitz</b>*, Prasanna Sattigeri, David D. Cox. arXiv 2020. * - equal contribution.  [<a href="https://arxiv.org/abs/2009.04433">arXiv</a>]

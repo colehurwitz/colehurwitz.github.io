@@ -11,10 +11,12 @@ redirect_from:
 Research
 ======
 I am a current PhD student at the Institute for Adaptive and Neural Computation, University of Edinburgh supervised by
-[Dr. Matthias Hennig](http://homepages.inf.ed.ac.uk/mhennig/). My research interests lie at the intersection of computational neuroscience and machine learning where I focus on improving deep generative modelling, analyzing large-scale neural recordings, and developing novel software tools for running and benchmarking automated spike sorters.
+[Dr. Matthias Hennig](http://homepages.inf.ed.ac.uk/mhennig/). My research interests lie at the intersection of computational neuroscience and machine learning where I focus on improving and applying deep generative models, analyzing large-scale neural recordings, and developing novel software tools for running and benchmarking automated spike sorters. Recently, I have been expanding my research to dynamical models of neural population recordings.
 
 News
 ======
+* Our paper [Targeted Neural Dynamical Modeling](https://papers.nips.cc/paper/2021/hash/f5cfbc876972bd0d031c8abc37344c28-Abstract.html) was accepted at NeurIPS 2021.
+* Our paper [Building population models for large-scale neural recordings: opportunities and pitfalls](https://www.sciencedirect.com/science/article/abs/pii/S0959438821000726) was published in Current Opinion in Neurobiology.
 * New preprint: [Building population models for large-scale neural recordings: opportunities and pitfalls](https://arxiv.org/abs/2102.01807).
 * Our paper [SpikeInterface, a unified framework for spike sorting](https://elifesciences.org/articles/61834) was published in eLife.
 * New preprint: [Improving the Reconstruction of Disentangled Representation Learners via Multi-Stage Modelling](https://arxiv.org/abs/2010.13187).
