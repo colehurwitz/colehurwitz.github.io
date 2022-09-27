@@ -10,11 +10,12 @@ redirect_from:
 
 Research
 ======
-I am a postdoctoral researcher at Zuckerman Institute, Columbia working with Liam Paninski. My research interests lie at the intersection of computational neuroscience and machine learning where I focus on improving and applying deep generative models, analyzing large-scale neural recordings, and developing novel software tools for running and benchmarking automated spike sorters. Recently, I have been expanding my research to dynamical models of neural population recordings.
+I am a postdoctoral researcher at Zuckerman Institute, Columbia working with Dr. Liam Paninski. My research interests lie at the intersection of computational neuroscience and machine learning where I focus on improving and applying deep generative models, analyzing large-scale neural recordings, and developing novel software tools for running and benchmarking automated spike sorters. Recently, I have been expanding my research to dynamical models of neural population recordings, pose estimation, and neural decoding.
 
 News
 ======
-* I finished my PhD and am now working as a postdoctoral researcher at Zuckerman Institute.
+* I am working as a postdoctoral researcher at Zuckerman Institute supervised by Dr. Liam Paninski.
+* I completed my PhD and published my thesis: [Scalable software and models for large-scale extracellular recordings](https://era.ed.ac.uk/handle/1842/38697)
 * Our paper [Targeted Neural Dynamical Modeling](https://papers.nips.cc/paper/2021/hash/f5cfbc876972bd0d031c8abc37344c28-Abstract.html) was accepted at NeurIPS 2021.
 * Our paper [Building population models for large-scale neural recordings: opportunities and pitfalls](https://www.sciencedirect.com/science/article/abs/pii/S0959438821000726) was published in Current Opinion in Neurobiology.
 * New preprint: [Building population models for large-scale neural recordings: opportunities and pitfalls](https://arxiv.org/abs/2102.01807).

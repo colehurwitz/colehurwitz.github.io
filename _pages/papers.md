@@ -14,11 +14,11 @@ author_profile: true
 
 <p>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0959438821000726"><b>Building population models for large-scale neural recordings: opportunities and pitfalls
-</b></a>.&nbsp;<b>Cole Hurwitz</b>\*, Nina Kudryashova\*, Arno Onken, Matthias H. Hennig. Current Opinion in Neurobiology 70, Pages 64-73. 2021. \* - equal contribution. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0959438821000726">Current Opinion in Neurobiology</a>]
+</b></a>.&nbsp;<b>Cole Hurwitz</b>*, Nina Kudryashova*, Arno Onken, Matthias H. Hennig. Current Opinion in Neurobiology 70, Pages 64-73. 2021. * - equal contribution. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0959438821000726">Current Opinion in Neurobiology</a>]
 </p>
 
 <p>
-<a href="https://elifesciences.org/articles/61834"><b>SpikeInterface, a unified framework for spike sorting</b></a>.&nbsp;Alessio P. Buccino\*, <b>Cole L. Hurwitz</b>\*, Jeremy Magland, Samuel Garcia, Joshua H. Siegle, Roger Hurwitz, Matthias H. Hennig.  <i>eLife</i> 2020. \* - equal contribution. [<a href="https://elifesciences.org/articles/61834">eLife</a>
+<a href="https://elifesciences.org/articles/61834"><b>SpikeInterface, a unified framework for spike sorting</b></a>.&nbsp;Alessio P. Buccino*, <b>Cole L. Hurwitz</b>*, Jeremy Magland, Samuel Garcia, Joshua H. Siegle, Roger Hurwitz, Matthias H. Hennig.  <i>eLife</i> 2020. * - equal contribution. [<a href="https://elifesciences.org/articles/61834">eLife</a>
 | <a href="https://github.com/SpikeInterface">Code</a>
 
 ]
@@ -49,12 +49,23 @@ author_profile: true
 
 # Preprints
 <p>
+<a href="https://figshare.com/articles/online_resource/Spike_sorting_pipeline_for_the_International_Brain_Laboratory/19705522/3"><b> Spike sorting pipeline for the International Brain Laboratory
+</b></a>.&nbsp; International Brain Laboratory, Kush Banga, Julien Boussard, Gaëlle A Chapuis, Mayo Faulkner, Kenneth D Harris, Julia M. Huntenburg, \textbf{Cole Hurwitz}, Hyun Dong Lee, Liam Paninski, Cyrille Rossant, Noam Roth, Nicholas A. Steinmetz, Charlie Windolf, Olivier Winter. figshare.com 2022.  [<a href="https://figshare.com/articles/online_resource/Spike_sorting_pipeline_for_the_International_Brain_Laboratory/19705522/3">figshare</a>]
+</p>
+
+<p>
 <a href="https://arxiv.org/abs/2009.04433"><b>not-so-BigGAN: Generating High-Fidelity Images on a Small Compute Budget
 </b></a>.&nbsp;Seungwook Han*, Akash Srivastava*, <b>Cole Hurwitz</b>*, Prasanna Sattigeri, David D. Cox. arXiv 2020. * - equal contribution.  [<a href="https://arxiv.org/abs/2009.04433">arXiv</a>]
 </p>
-
 
 <p>
 <a href="https://arxiv.org/abs/2010.13187"><b>Improving the Reconstruction of Disentangled Representation Learners via Multi-Stage Modelling
 </b></a>.&nbsp;Akash Srivastava*<sup>c</sup>, Yamini Bansal*, Yukun Ding*, <b>Cole Hurwitz</b>*<sup>c</sup>, Kai Xu, Bernhard Egger, Prasanna Sattigeri, Josh Tenenbaum, David D. Cox, Dan Gutfreund. arXiv 2020. * - equal contribution. c - Corresponding Author.  [<a href="https://arxiv.org/abs/2010.13187">arXiv</a>]
 </p>
+
+# Thesis
+<p>
+<a href="https://era.ed.ac.uk/handle/1842/38697"><b> Scalable software and models for large-scale extracellular recordings
+</b></a>.&nbsp; Cole Hurwitz. 2022.  [<a href="https://era.ed.ac.uk/handle/1842/38697">link</a>]
+</p>
+
