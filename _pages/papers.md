@@ -65,7 +65,5 @@ author_profile: true
 
 # Thesis
 <p>
-<a href="https://era.ed.ac.uk/handle/1842/38697"><b> Scalable software and models for large-scale extracellular recordings
-</b></a>.&nbsp; Cole Hurwitz. 2022.  [<a href="https://era.ed.ac.uk/handle/1842/38697">link</a>]
+<a href="https://era.ed.ac.uk/handle/1842/38697"><b> Scalable software and models for large-scale extracellular recordings</b></a>.&nbsp; Cole Hurwitz. 2022.  [<a href="https://era.ed.ac.uk/handle/1842/38697">link</a>]
 </p>
-
