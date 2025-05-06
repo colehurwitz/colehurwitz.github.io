@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Cole Hurwitz"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Researcher, Zuckerman Institute, Columbia Univeristy."
+  bio              : "Postdoctoral Researcher, Zuckerman Institute, Columbia University."
   location         : "New York, United States"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=cole+hurwitz"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=jaPxv5cAAAAJ&view_op=list_works&gmla=AJsN-F6mwChKmh9APxQ-rhyOBwAPKdBZv3vJ2M1nsx_RhYr08vPI__piwacXZJmRfzjuAOQ4KK33EDDoYbEV_S_Mi10EpxSFtbI0qFWGsvN-vipU9XhV0aE"
-  email            :
+  email            :  colehurwitz _at_ gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "colehurwitz"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
