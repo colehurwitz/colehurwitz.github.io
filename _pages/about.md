@@ -15,7 +15,7 @@ My research lies at the intersection of machine learning and systems neuroscienc
 
 Recent News
 ===========
-*	I co-organized at workshop at Cosyne 2025: [Building a foundation model for the brain Workshop](https://neurofm-workshop.github.io/). 
+*	I co-organized the workshop [Building a foundation model for the brain Workshop](https://neurofm-workshop.github.io/) at Cosyne 2025 in Mont Tremblant, Canada.
 * Our work [Neural Encoding and Decoding at Scale](https://openreview.net/forum?id=h6WUKM7PCI) was accepted at ICML 2025 as a spotlight.
 * Our work [In vivo cell-type and brain region classification via multimodal contrastive learning](https://openreview.net/forum?id=10JOlFIPjt) was accepted at ICLR 2025 as a spotlight.
 * Our work [Towards a “universal translator” for neural dynamics at single-cell, single-spike resolution](https://openreview.net/forum?id=nRRJsDahEg) was accepted at NeurIPS 2024.
