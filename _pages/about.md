@@ -10,7 +10,7 @@ redirect_from:
 
 I completed my PhD at University of Edinburgh supervised by Dr. Matthias Hennig. I am now a postdoctoral researcher at the Zuckerman Institute at Columbia University, working with Dr. Liam Paninski. I am a member of the International Brain Laboratory ([IBL](https://www.internationalbrainlab.com/)) and the NSF AI Institute for Artificial and Natural Intelligence ([ARNI](https://arni-institute.org/)).
 
-My research lies at the intersection of machine learning and systems neuroscience, with a focus on developing neuro-foundation models: large-scale, pretrained models of brain activity that generalize across animals, brain regions, and tasks. I also co-developed [SpikeInterface](https://github.com/spikeinterface), a widely-used open-source framework for creating flexible and robust spike sorting pipelines.
+My research lies at the intersection of machine learning and systems neuroscience, with a focus on developing neuro-foundation models: large-scale, pretrained models of brain activity that generalize across animals, brain regions, and tasks. I also co-created [SpikeInterface](https://github.com/spikeinterface), a widely-used open-source framework for creating flexible and robust spike sorting pipelines.
 
 
 Recent News
