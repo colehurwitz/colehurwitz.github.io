@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Me"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Cole Hurwitz"
 description              : &description "Postdoctoral Researcher, Zuckerman Institute, Columbia Univeristy."
