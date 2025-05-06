@@ -10,7 +10,7 @@ redirect_from:
 
 Research
 ======
-I am a postdoctoral researcher at the Zuckerman Institute at Columbia University, working with Dr. Liam Paninski and the International Brain Laboratory (IBL). My research sits at the intersection of machine learning and systems neuroscience, with a focus on developing neuro-foundation models: large-scale, pretrained models of brain activity that generalize across animals, brain regions, and tasks. I also co-developed SpikeInterface, an open-source framework for standardized and scalable spike sorting across diverse electrophysiological datasets.
+I am a postdoctoral researcher at the Zuckerman Institute at Columbia University, working with Dr. Liam Paninski and the International Brain Laboratory (IBL). My research sits at the intersection of machine learning and systems neuroscience, with a focus on developing neuro-foundation models: large-scale, pretrained models of brain activity that generalize across animals, brain regions, and tasks. I also co-developed SpikeInterface, an open-source framework for creating flexible and robust spike sorting pipelines.
 
 
 Recent News
