@@ -15,6 +15,7 @@ I build scalable machine learning models that connect neural activity to behavio
 
 Recent News
 ===========
+*	I will be presenting my work at the Bernstein Conference at a [workshop on neurobehavioral modeling](https://bernstein-network.de/bernstein-conference/program/satellite-workshops/definition/).
 *	I am co-organizing the workshop [Foundation Models for the Brain and Body](https://brainbodyfm-workshop.github.io/#) at NeurIPS 2025 in San Diego, United States.
 *	I will be presenting my work at the [CTCN Computational Neuroscience Next Generation Symposium](https://ctcn.wustl.edu/2025-next-gen-symposium/).
 *	I am giving a talk on "Jointly modeling neural activity and behavior using multimodal transformers" at the Bernstein Conference workshop, [Toward a joint definition of neural-behavioral states](https://bernstein-network.de/bernstein-conference/program/satellite-workshops/definition/#).
@@ -22,4 +23,3 @@ Recent News
 * Our work [Neural Encoding and Decoding at Scale](https://openreview.net/forum?id=h6WUKM7PCI) was accepted at ICML 2025 as a spotlight.
 * Our work [In vivo cell-type and brain region classification via multimodal contrastive learning](https://openreview.net/forum?id=10JOlFIPjt) was accepted at ICLR 2025 as a spotlight.
 * Our work [Towards a “universal translator” for neural dynamics at single-cell, single-spike resolution](https://openreview.net/forum?id=nRRJsDahEg) was accepted at NeurIPS 2024.
-* Our work [Lightning Pose: improved animal pose estimation via semi-supervised learning, Bayesian ensembling and cloud-native open-source tools](https://www.nature.com/articles/s41592-024-02319-1) was published in Nature Methods.
