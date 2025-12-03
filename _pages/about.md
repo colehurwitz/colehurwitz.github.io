@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I completed my PhD at University of Edinburgh supervised by Dr. Matthias Hennig. I am now a postdoctoral researcher at the Zuckerman Institute at Columbia University, working with Dr. Liam Paninski. I am a member of the International Brain Laboratory ([IBL](https://www.internationalbrainlab.com/)) and the NSF AI Institute for Artificial and Natural Intelligence ([ARNI](https://arni-institute.org/)).
+I am an AI Architect on IBM’s Core AI team, where I am conducting research and building an AgentOps product that makes agentic AI systems reliable, observable, and governable at enterprise scale. My work spans framework design, evaluation tooling, optimization pipelines, and applied research for agentic systems.
 
-I build scalable machine learning models that connect neural activity to behavior at single-cell and single-spike resolution. My work spans multimodal transformers, contrastive/self-supervised learning, and probabilistic latent-variable/state-space modeling to advance large-scale electrophysiology and brain-wide decoding. I also co-created [SpikeInterface](https://github.com/spikeinterface), a widely-used open-source framework for creating flexible and robust spike sorting pipelines.
+I completed my PhD at the University of Edinburgh under Dr. Matthias Hennig and later conducted a postdoctoral fellowship at the Zuckerman Institute at Columbia University with Dr. Liam Paninski. I was also a member of the International Brain Laboratory ([IBL](https://www.internationalbrainlab.com/)) and the NSF AI Institute for Artificial and Natural Intelligence ([ARNI](https://arni-institute.org/)). My research focused on building scalable machine learning models that connected neural activity to behavior at single-cell and single-spike resolution, spanning multimodal transformers, contrastive/self-supervised learning, and probabilistic latent-variable/state-space modeling. I also co-created [SpikeInterface](https://github.com/spikeinterface), a widely used open-source framework for flexible and robust spike-sorting pipelines.
 
 
 Recent News
 ===========
+*	I have joined IBM as an AI Architect to build an AgentOps platform for observing, evaluating, and optimizing enterprise AI agents.
 *	I will be presenting my work at the Bernstein Conference at a [workshop on neurobehavioral modeling](https://bernstein-network.de/bernstein-conference/program/satellite-workshops/definition/).
 *	I am co-organizing the workshop [Foundation Models for the Brain and Body](https://brainbodyfm-workshop.github.io/#) at NeurIPS 2025 in San Diego, United States.
 *	I will be presenting my work at the [CTCN Computational Neuroscience Next Generation Symposium](https://ctcn.wustl.edu/2025-next-gen-symposium/).
